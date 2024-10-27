@@ -1,0 +1,16 @@
+#ignore everything
+*
+*/
+
+#unignore what we want to track
+!asg_to_calendar/
+!asg_to_calendar/*
+!asg_to_calendar/events/
+!asg_to_calendar/events/*
+!asg_to_calendar/logger/
+!asg_to_calendar/logger/*
+!poetry.lock
+!pyproject.toml
+!README.md
+!.gitignore
+!README.md
