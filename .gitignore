@@ -4,13 +4,17 @@
 
 #unignore what we want to track
 !asg_to_calendar/
-!asg_to_calendar/*
-!asg_to_calendar/events/
-!asg_to_calendar/events/*
-!asg_to_calendar/logger/
-!asg_to_calendar/logger/*
+!asg_to_calendar/main.py
+!asg_to_calendar/config.py
+!asg_to_calendar/__init__.py
+!asg_to_calendar/utils/
+!asg_to_calendar/utils/__init__.py
+!asg_to_calendar/utils/data.py
+!asg_to_calendar/utils/events.py
+!asg_to_calendar/utils/logger.py
 !poetry.lock
 !pyproject.toml
 !README.md
+!requirements.txt
 !.gitignore
 !README.md
